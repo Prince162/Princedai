@@ -312,7 +312,18 @@ logo =                                          ("""
 
 \033[1;32m 
 
-PPPPPPPPPPPPPPPPP iiii P::::::::::::::::P i::::i P::::::PPPPPP:::::P iiii PP:::::P P:::::P P::::P P:::::Prrrrr rrrrrrrrr iiiiiiinnnn nnnnnnnn cccccccccccccccc eeeeeeeeeeee P::::P P:::::Pr::::rrr:::::::::r i:::::in:::nn::::::::nn cc:::::::::::::::c ee::::::::::::ee P::::PPPPPP:::::P r:::::::::::::::::r i::::in::::::::::::::nn c:::::::::::::::::c e::::::eeeee:::::ee P:::::::::::::PP rr::::::rrrrr::::::ri::::inn:::::::::::::::nc:::::::cccccc:::::ce::::::e e:::::e P::::PPPPPPPPP r:::::r r:::::ri::::i n:::::nnnn:::::nc::::::c ccccccce:::::::eeeee::::::e P::::P r:::::r rrrrrrri::::i n::::n n::::nc:::::c e:::::::::::::::::e P::::P r:::::r i::::i n::::n n::::nc:::::c e::::::eeeeeeeeeee P::::P r:::::r i::::i n::::n n::::nc::::::c ccccccce:::::::e PP::::::PP r:::::r i::::::i n::::n n::::nc:::::::cccccc:::::ce::::::::e P::::::::P r:::::r i::::::i n::::n n::::n c:::::::::::::::::c e::::::::eeeeeeee P::::::::P r:::::r i::::::i n::::n n::::n cc:::::::::::::::c ee:::::::::::::e PPPPPPPPPP rrrrrrr iiiiiiii nnnnnn nnnnnn cccccccccccccccc eeeeeeeeeeeeee 
+
+$$$$$$$\  $$$$$$$\  $$$$$$\ $$\   $$\  $$$$$$\  $$$$$$$$\ 
+$$  __$$\ $$  __$$\ \_$$  _|$$$\  $$ |$$  __$$\ $$  _____|
+$$ |  $$ |$$ |  $$ |  $$ |  $$$$\ $$ |$$ /  \__|$$ |      
+$$$$$$$  |$$$$$$$  |  $$ |  $$ $$\$$ |$$ |      $$$$$\    
+$$  ____/ $$  __$$<   $$ |  $$ \$$$$ |$$ |      $$  __|   
+$$ |      $$ |  $$ |  $$ |  $$ |\$$$ |$$ |  $$\ $$ |      
+$$ |      $$ |  $$ |$$$$$$\ $$ | \$$ |\$$$$$$  |$$$$$$$$\ 
+\__|      \__|  \__|\______|\__|  \__| \______/ \________|
+                                                          
+                                                          
+                                                          
 
                                           
 
